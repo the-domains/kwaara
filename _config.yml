@@ -1,4 +1,4 @@
-name: kwaara
+name: Keith Waara
 favicon: null
 layout_spectrum: 0.9294400997459888
 typography_spectrum: 0.759504922432825
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#dcdec6'
+    - '#b5ae95'
+    - '#362d34'
+    - '#9e8e79'
+    - '#836763'
   brandStrength: 0.8778253742493689
   lightness: 0.3553975257091224
   saturation: 0.9674965373706073
